@@ -37,6 +37,10 @@ The initial desktop file and icon parsing logic using a state machine to be """b
 
 I have attached my current as of writing config file to the repo if you want a starting example.
 
+## Credits
+Credit goes to nicbarker/clay for providing the UX framework and the DSL3 backend.
+
+## Dev stuff
 build by running `make all`
 
 feel free to make pull requests if you want to add something.
